@@ -1,47 +1,54 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00ffcc">Issam Junior</span></h1>
-<h3 align="center">🛡️ Cybersecurity Researcher | 🧠 Multi-language Developer | 💻 Open Source Enthusiast</h3>
+<h3 align="center">🛡️ Cybersecurity Researcher | 🧠 Multi-language Developer | 💻 Full-Stack & Malware Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Ethical+Hacker+%26+Security+Researcher;Exploit+Developer+%7C+Python%2C+JS%2C+PHP%2C+Bash;Linux+User+%7C+Automation+Addict;Always+Learning+%26+Building+Cool+Stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Web+%26+Mobile+Developer+%7C+Malware+Engineer;Flutter%2C+PHP%2C+Python%2C+C%2B%2B%2C+Bash%2C+JS%2C+TailwindCSS;Reverse+Engineering+%7C+Linux+Lover+%7C+Automation+Addict" />
 </p>
 
 ---
 
 ### 🧠 Who Am I?
 
-🔥 I'm a **self-taught hacker** and **security researcher** who loves breaking and building systems.  
-🧰 I build custom **tools**, **scripts**, and **exploits** that help automate and enhance cybersecurity workflows.  
-⚙️ I specialize in **real-world vulnerability analysis**, **automation**, and **developing exploits** for fun and education.  
+I'm a **cybersecurity researcher**, **software developer**, and **creative hacker** who thrives on solving complex problems and pushing boundaries in both offensive and defensive security.
+
+🔹 I develop advanced **malware & shellcode** (for research & simulation)  
+🔹 I build fast & modern **websites using PHP + TailwindCSS**  
+🔹 I craft full Android **apps using Flutter & Dart**  
+🔹 I explore the dark side of systems — for good ⚔️
 
 ---
 
-### 💻 My Technical Stack
+### 💻 Languages & Tech Stack
 
-#### 🚀 Languages I Use Daily:
+#### 🚀 Languages I Use:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,php,perl,ruby,bash,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,dart,js,java,perl,ruby,bash,mysql,html,css" />
 </p>
 
-#### 🛠️ Tools I Love:
+#### 🧰 Frameworks & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" />
-</p>
-
-#### 💡 Also Familiar With:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,nodejs,nginx,docker" />
+  <img src="https://skillicons.dev/icons?i=flutter,tailwind,linux,git,github,vscode" />
 </p>
 
 ---
 
-### 🧪 What I Do
+### 🔥 What I Do
 
 - 🧠 Reverse Engineering & Vulnerability Research  
-- 🔍 CVE Discovery & Exploit Proof-of-Concept  
-- 🧰 CLI Tools for Recon & Pentesting  
-- 💻 Web App Security & Filter Bypass  
-- 🐚 Bash & Python Scripting on Linux  
-- ⚙️ Automating boring but important hacking tasks
+- 👾 Malware Development (Python / C++)  
+- 💻 Website Backends (PHP, MySQL) + UI (TailwindCSS)  
+- 📱 Mobile App Development (Flutter / Dart)  
+- 🐚 Linux Automation & Scripting (Bash, Python)  
+- 🔍 CVE Discovery, Exploits & Security Tools  
+
+---
+
+### 🧬 Fun Facts About Me
+
+- 🕶️ I code more at night than I sleep 🌙  
+- 🐧 Terminal is my playground  
+- ⚔️ I simulate malware to fight malware  
+- 🧪 I automate everything I get my hands on  
 
 ---
 
@@ -66,15 +73,10 @@
 
 ---
 
-### 🧬 Fun Facts About Me
-
-- 🚀 I love building tools that automate everything  
-- 🤖 I code mostly at night (Dark mode lover 🌑)  
-- 🐧 I feel at home in the Linux terminal  
-- ☕ I drink coffee like it's part of the OS  
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+<p align="center"><b>⚡ Crafted with ❤️ by ISSAM JUNIOR | Stay Rooted. Think Offensive. 💀</b></p>
